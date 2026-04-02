@@ -1,0 +1,15 @@
+# Vagrant internals
+.vagrant/
+
+# VMware logs and state
+*.log
+*.lck
+*.vmem
+*.vmsd
+*.vmxf
+*.vmdk
+*.vmwarevm/
+
+# OS generated files
+.DS_Store
+thumbs.db
